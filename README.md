@@ -11,3 +11,6 @@ Total Electric Vehicles: This KPI provides a snapshot of EV market size and grow
 Average Electric Range: Analyzing average range highlights advancements in battery efficiency, addressing range anxiety and boosting EV appeal across regions.
 
 Total BEV & PHEV Vehicles: By calculating BEVs and PHEVs as percentages of total EVs, we gauge consumer preferences and the industry's shift toward zero-emission and hybrid models.
+
+
+## Final Chart : ![Conclusion](https://github.com/user-attachments/assets/82d32716-cc23-4e2b-8007-444438b07f5c)
